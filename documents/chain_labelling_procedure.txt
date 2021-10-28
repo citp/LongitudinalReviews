@@ -1,0 +1,11 @@
+# How we are labelling chains
+
+1. Search for the name of the hotel without the location, try to find a chain of that name
+2. Search for the hotel with the location. Try to find a parent company or offerings for other locations
+3. If no website can be found, assume not a chain
+
+Labeling:
+0 - Not a chain
+1 - Chain
+2 - Has a parent, but does not share a name
+3 - Acquired with name change

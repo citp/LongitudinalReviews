@@ -1,0 +1,19 @@
+{
+	"controller": {
+		"hostname": "1.2.3.4",
+		"port": "443",
+		"key": "a randomly generated secret value"
+	},
+	"analysis_machine": {
+		"hostname": "example.com",
+		"user": "username",
+		"project_folder": "/home/username/LongitudinalReviews/"
+	},
+	"crawler": {
+		"project_folder": "/home/crawler/LongitudinalReviews/",
+		"backup_drive": "xvdf",
+		"backup_drive_folder": "Reviews",
+		"user": "crawler",
+		"group": "crawler"
+	}
+}

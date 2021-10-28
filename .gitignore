@@ -1,0 +1,15 @@
+YelpZip-Data/
+venv/
+*~
+.ipynb_checkpoints/
+\#*
+\.\#*
+YELP_API_KEY.json
+vpn_credentials.*
+*__pycache__/
+proxy_list.txt
+ovpn_files/
+/.settings/
+data_release/
+data_release_pseudonymous/
+*/.ipynb_checkpoints
