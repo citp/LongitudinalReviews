@@ -7,8 +7,8 @@ EXTENDED_ZIPCODES = "23222 60523 17320 58202 98605 33710 34240 37025 59020 90290
 
 
 #CRAWL_ORDER_CHICAGO = ["crawl_9", "crawl_10", "crawl_11", "crawl_12", "crawl_13", "crawl_14", "crawl_15"]
-CRAWL_ORDER_CHICAGO = ["crawl_10", "crawl_11", "crawl_12", "crawl_13", "crawl_14", "crawl_15", "crawl_16", "crawl_17", "crawl_18"]
-CRAWL_ORDER_EXTENDED = ["crawl_x0", "crawl_x1", "crawl_x2", "crawl_x3"]
+CRAWL_ORDER_CHICAGO = ["CRAWL_CHI-1", "CRAWL_CHI-2", "CRAWL_CHI-3", "CRAWL_CHI-4", "CRAWL_CHI-5", "CRAWL_CHI-6", "CRAWL_CHI-7", "CRAWL_CHI-8"]
+CRAWL_ORDER_EXTENDED = ["CRAWL_UDIS-1", "CRAWL_UDIS-2", "CRAWL_UDIS-3", "CRAWL_UDIS-4"]
 
 DATA_DIR = "../../data/"
 BUSINESSES_DIR = os.path.join(DATA_DIR, "businesses_by_zipcode")
