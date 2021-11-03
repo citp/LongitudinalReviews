@@ -4,7 +4,7 @@ This project is a repository containing code
 
 ## Data
 
-Our data has not yet been released, but we will include a link here.
+Our data has not yet been released, but the announcement page is [here](https://sites.google.com/princeton.edu/longitudinal-review-data/home).
 
 ## Setup
 
