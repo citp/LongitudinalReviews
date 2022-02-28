@@ -1,12 +1,18 @@
 # Collection and analysis of longitudinal reviews on Yelp
 
-This project is a repository containing code
+This repository is the code to supplement to our [preprint paper](https://arxiv.org/abs/2202.09005) studying reviews from a longitudinal angle.
 
 ## Data
 
-Our data has not yet been released, but the announcement page is [here](https://sites.google.com/princeton.edu/longitudinal-review-data/home).
+Our data can be requested [here](https://sites.google.com/princeton.edu/longitudinal-review-data/home).
 
-## Setup
+## General setup
+
+Install Python and pip. Use pip to install the requirements from requirements.txt
+
+Be aware: the versions listed are the version we used and may have security vulnerabilities. You are encouraged to use up-to-date version of dependencies.
+
+## Setup for the crawler
 
 You will need to enter the relevant fields into the config/config.json file
 
